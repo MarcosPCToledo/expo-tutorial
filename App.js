@@ -19,3 +19,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
 });
+
+//Error test
+console.warn("Warning message")
+console.error("Error message")
